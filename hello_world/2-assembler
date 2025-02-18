@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE="C" | gcc -s $CFILE
+CFILE="C" | gcc -S $CFILE
