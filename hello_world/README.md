@@ -1,3 +1,5 @@
 This repository will contain a sequence of learning activities that will document my C programming language beginner skill accrual.
 To navigate this repository, please refer to the Github guides and consult the Holberton Coding School leadership. 
 This repository record is being hosted by Holberton Coding School and produced by me, the student.
+This current push has file main stored in variable CFILE to run it through the preprocessor gcc and store the output in file c.
+This current push has the file main stored in the CFILE variable to run through the preprocessor gcc and store the output in file main.o.
