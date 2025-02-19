@@ -7,3 +7,4 @@ This current push generates the assembly code of a C code and saves it in an out
 This current push compiles C file stored in variable CFILE and generats of it an executable file named cisfun.
 This current push is a C program that prints exactly "Programming os like building a multilingual puzzle" followed by a new line, while using function put but not allowed to use function printf and ending with value 0.
 This current push prints exactly with proper grammar but the output is a piece of art followed by a new line, with specifications that command printf is used instead of puts and that the writen program returns 0 output and that the program compiles w/o warning when using the -Wall gcc option.'
+This current push  prints the size of various types on the computer it is compiled and run on with given specificationsrelated to output return allowed warnings.
