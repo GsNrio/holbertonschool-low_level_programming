@@ -1,0 +1,2 @@
+This directory will document initial progress in the tasks noted herein that involve handling variables if else and while to show the learning of C programming language.
+This current push includes a readily available C code that serves for determining whether the number stored in given variable is negative or positive and has a script that assigns a random number to the variable each time it is executed.
