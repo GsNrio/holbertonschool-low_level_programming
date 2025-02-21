@@ -14,11 +14,13 @@ int main(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
-		printf("%c", c);
+		putchar(c);
 	}
 	for (c = 'A'; c <= 'Z'; c++)
 	{
-		printf("\n");
+		putchar(c);
 	}
-		return (0);
+	putchar('\n');
+		
+	return (0);
 }
