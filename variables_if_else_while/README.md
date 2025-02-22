@@ -5,3 +5,4 @@ This current push is a program for printing out the alphabet in lowercase follow
 This current push is a program that first prints the alphabet in lowercase and then in uppercase followed by a new line.
 This current push is a program that prints the alphabet in lowercase with specifications related to the option putchar and not printing letters q and e following the alphabet with a new line.
 This current push is a program that writes all single digit numbers of base 10 starting from zero followed by a new line.
+This current push is a program that prints all single numbers of base ten starting from zero followed by a new line without the use of char type variable and with only the use of function putchar up to twice during the script.
