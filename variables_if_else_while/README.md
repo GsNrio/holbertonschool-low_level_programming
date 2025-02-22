@@ -4,3 +4,4 @@ This current push includes a readily available C code that assigns a random numb
 This current push is a program for printing out the alphabet in lowercase followed by a new line.
 This current push is a program that first prints the alphabet in lowercase and then in uppercase followed by a new line.
 This current push is a program that prints the alphabet in lowercase with specifications related to the option putchar and not printing letters q and e following the alphabet with a new line.
+This current push is a program that writes all single digit numbers of base 10 starting from zero followed by a new line.
