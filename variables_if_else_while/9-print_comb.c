@@ -13,12 +13,20 @@ int main(void)
 {
 	int g;
 
-	for (g = 0; g <= 9; g++)
+
+	for (g = 0; g < 10; g++)
+
 	{
-		putchar (g);
-	}
-	{
-		putchar ('\n');
+		if (g != 9)
+		{
+			putchar(g + '0');
+			putchar(',');
+		}
+		else
+		{
+			putchar(g + '0');
+			putchar('$');
+		}
 	}
 	return (0);
 }
