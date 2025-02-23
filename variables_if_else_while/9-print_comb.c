@@ -21,6 +21,7 @@ int main(void)
 		{
 			putchar(g + '0');
 			putchar(',');
+			putchar(' ');
 		}
 		else
 		{
