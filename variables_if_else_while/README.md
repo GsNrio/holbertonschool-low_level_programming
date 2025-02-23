@@ -7,5 +7,6 @@ This current push is a program that prints the alphabet in lowercase with specif
 This current push is a program that writes all single digit numbers of base 10 starting from zero followed by a new line.
 This current push is a program that prints all single numbers of base ten starting from zero followed by a new line without the use of char type variable and with only the use of function putchar up to twice during the script.
 This current push prints the lowercase alphabet in reverse followed by a new line with the exclussive use of function putchar up to twice during the script.
-This current push prints all the hexadecimals with only lowercase leters in the ones that combine letter and digit followed by a new line with exclussive use of the putchar function up to three times in the entire program.
+This current push prints all the hexadecimals with the letters in lowercase format followed by a new line with exclussive use of the putchar function up to three times in the entire program.
+This current push prints all possible combinations of single digit number.
 
