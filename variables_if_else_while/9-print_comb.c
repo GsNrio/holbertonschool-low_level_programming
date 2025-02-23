@@ -25,7 +25,6 @@ int main(void)
 		else
 		{
 			putchar(g + '0');
-			putchar('$');
 		}
 	}
 	return (0);
