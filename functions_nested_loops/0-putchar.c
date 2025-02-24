@@ -12,10 +12,10 @@
  */
 int main(void)
 {
-	int ascii_vs[] = {95, 112, 117, 116, 99, 97, 114};
+	int ascii_vs[] = {95, 112, 117, 116, 104, 99, 97, 114};
 	int i;
 
-	for (i = 0; i < 7; i++)
+	for (i = 0; i < 8; i++)
 	{
 		putchar(ascii_vs[i]);
 
