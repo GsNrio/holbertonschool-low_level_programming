@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 #include "main.h"
 /**
  * main - Entry point of the program
@@ -12,15 +12,17 @@
  */
 int main(void)
 {
-	int ascii_vs[] = {95, 112, 117, 116, 99, 104, 97, 114};
+	char str[] = "_putchar";
+
 	int i;
 
-	for (i = 0; i < 8; i++)
+	for (i = 0; str[i] != '\0'; i++)
 	{
-		putchar(ascii_vs[i]);
+		_putchar(str[i]);
 
 	}
-	putchar('\n');
+
+	_putchar('\n');
 
 	return (0);
 }
