@@ -5,3 +5,5 @@ This repository record is being hosted by Holberton Coding School and produced b
 This current push is a program that prints putchar text in a particular format followed by a new line.
 This current push is a program thatprints 10 times the alphabet, in lowercase, followed by a newline.
 This current push is a function that checks for lowercase character.
+This current push is a function for detecting alphabetic characters.
+
