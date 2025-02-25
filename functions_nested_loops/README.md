@@ -7,3 +7,4 @@ This current push is a program thatprints 10 times the alphabet, in lowercase, f
 This current push is a function that checks for lowercase character.
 This current push is a function for detecting alphabetic characters.
 This current push prints the sign of a number.
+This current push is a function that computes the absolute value of an integer.
