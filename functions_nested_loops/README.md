@@ -8,3 +8,4 @@ This current push is a function that checks for lowercase character.
 This current push is a function for detecting alphabetic characters.
 This current push prints the sign of a number.
 This current push is a function that computes the absolute value of an integer.
+This current push is a function that prints the last digit of a number.
