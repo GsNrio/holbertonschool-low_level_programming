@@ -9,13 +9,19 @@
 int print_last_digit(int n)
 
 {
-	int h = n;
+	int last_digit = n % 10;
 
-	if (h >= 10 && n < 10)
+	if (last_digit < 0)
 
-		(n = h % 10);
+	{
 
-	_putchar (n);
+		last_digit = -last_digit;
+
+	}
+
+
+
+	_putchar(last_digit + '0');
 
 	return (0);
 }
