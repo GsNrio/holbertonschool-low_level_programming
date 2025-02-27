@@ -9,4 +9,5 @@ This current push is a function for detecting alphabetic characters.
 This current push prints the sign of a number.
 This current push is a function that computes the absolute value of an integer.
 This current push is a function that prints the last digit of a numberi.
-This current push is a function that prints every minute of the day of Jack Bauer 23 hours and 59 minutes. 
+This current push is a function that prints every minute of the day of Jack Bauer 23 hours and 59 minutes.
+This current push is a function that prints the 9 times table. 
