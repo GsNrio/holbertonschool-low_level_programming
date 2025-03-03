@@ -4,7 +4,7 @@ This repository record is being hosted by Holberton Coding School and produced b
 
 This current push is a function that checks for uppercase character.
 This current push is a function that checks for a digit 0 though 9.
-This current push is a function 
+This current push is a function that multiplies 2 integers. 
 This current push is a function
 This current push 
 This current push is a function 
