@@ -23,6 +23,14 @@ void print_line(int n)
 
 	}
 
+	for (; f >= n ; f--)
+
+	{
+
+		_putchar('_');
+
+	}
+
 	_putchar('\n');
 
 }
