@@ -7,7 +7,7 @@ This current push is a function that checks for a digit 0 though 9.
 This current push is a function that multiplies 2 integers. 
 This current push is a function that prints the numbers from 0 to 9 followed by a new line.
 This current push is a function that prints the numbers 0 to 1 followed by 3 followed by 5 to 9 followed by a newline.
-This current push is a function 
+This current push is a function that prints ten times the numbers from 0 to 14.
 This current push is a function
 This current push is a function 
 This current push 
