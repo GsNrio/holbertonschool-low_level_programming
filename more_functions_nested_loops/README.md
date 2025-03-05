@@ -12,4 +12,4 @@ This current push is a function draws a straight line in the terminal.
 This current push is a function that draws a diagonal line on the terminal.
 This current push is a function that prints a square, followed by a new line.
 This current push is a function that flunks bad programmers.
-This current push 
+This current push is a funtion that prints a triangle followed by a new line. 
