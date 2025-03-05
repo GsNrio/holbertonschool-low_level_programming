@@ -16,31 +16,36 @@ int main(void)
 	for (; n <= 100; n++)
 	{
 		if (n % 3 == 0 && n % 5 == 0)
-			printf("  ");
+		{
+			printf("FizzBuzz ");
+		}
+
+		else if (n % 3 == 0)
+		{
+			printf("Fizz ");
+		}
+		else if (n % 5 == 0)
 
 		{
-			printf("%d ", n);
+			printf("Buzz ");
+		}
 
-			if (n % 3 == 0 && n % 5 == 0)
-			{
-				printf("FizzBuzz");
-			}
-			else if (n % 5 > 0 && n % 3 > 0)
+		else
 
-			{
-				printf("Fizz");
-			}
+		{
+			printf("%d", n);
+		}
+		if (n != 100)
 
-			else if (n % 5 == 0)
-
-			{
-				printf("Buzz");
-			}
+		{
+			printf(" ");
 
 		}
 
 
 	}
+
+	printf("\n");
 
 	return (0);
 }
