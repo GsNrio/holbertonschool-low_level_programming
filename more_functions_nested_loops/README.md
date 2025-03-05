@@ -9,7 +9,7 @@ This current push is a function that prints the numbers from 0 to 9 followed by 
 This current push is a function that prints the numbers 0 to 1 followed by 3 followed by 5 to 9 followed by a newline.
 This current push is a function that prints ten times the numbers from 0 to 14.
 This current push is a function draws a straight line in the terminal.
-This current push is a function 
+This current push is a function that draws a diagonal line on the terminal.
 This current push 
 This current push
 This current push 
