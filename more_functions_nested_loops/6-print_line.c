@@ -13,27 +13,11 @@ void print_line(int n)
 	int (f) = 0;
 
 
-	for (; f <= n ; f++)
+	for  (f = 0 ; f < n ; f++)
 	{
 
 
 		_putchar('_');
-
-	}
-
-	for (; f >= n ; f--)
-
-	{
-
-		_putchar('_');
-
-	}
-
-	for (; f == n ;)
-
-	{
-
-		_putchar(' ');
 
 	}
 
@@ -42,5 +26,3 @@ void print_line(int n)
 	_putchar('\n');
 
 }
-
-
