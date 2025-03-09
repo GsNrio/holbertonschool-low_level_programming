@@ -27,6 +27,7 @@ void print_triangle(int size);
 void modif_my_char_var(char *cc, char ccc);
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
+int _strlen(char *s);
 
 
 #endif
