@@ -5,3 +5,5 @@ This current push is a function that takes a pointer to an int as parameter and 
 This current push is a function that swaps the values of two integers.
 This current push is a function that returns the length of a string.
 This current push is a function that prints a string, followed by a new line.
+This current push is a function that prints a string in reverse followed by a newline.
+
