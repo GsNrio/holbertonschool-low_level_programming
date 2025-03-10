@@ -3,41 +3,32 @@
 /**
  * _atoi - converts a string into an integer.
  *
- * @s: points to a character.
+ * @s: points to a character string.
  *
- * Return: an integer.
+ * Return: the integer value of the string.
  */
 int _atoi(char *s)
 {
-	int t = 1;
-
-	int f = 0;
-
+	int result = 0;
+	int sign = 1;
 
 
-	if (*s == '-')
+	while (*s == ' ')
+		s++;
+
+
+	if (*s == '-' || *s == '+')
 	{
-		t = -1;
+		sign = (*s == '-') ? -1 : 1;
 		s++;
 	}
 
 
-
-	while (*s != '\0')
+	while (*s >= '0' && *s <= '9')
 	{
-		if (*s >= '0' && *s <= '9')
-
-		{
-			f = f * 10 + (*s - '0');
-		}
-
-		else
-
-		{
-			break;
-		}
+		result = result * 10 + (*s - '0');
 		s++;
 	}
 
-	return (f * t);
+	return (sign * result);
 }
