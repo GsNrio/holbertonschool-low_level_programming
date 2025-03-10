@@ -14,4 +14,5 @@ This current push is a function that copies the string pointed to by src, includ
 This current push is a function that convertsa string to an integer.
 ----------------------------------------------------------------------
 At this point I produce material from the More pointers arrays and strings.
-THis current push is a function that concatenates two strings.
+This current push is a function that concatenates two strings.
+This current push is a function that concatenates two strings appending only the specified number of characters in thesecond string to the first.
