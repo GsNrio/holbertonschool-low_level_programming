@@ -17,3 +17,4 @@ At this point I produce material from the More pointers arrays and strings.
 This current push is a function that concatenates two strings.
 This current push is a function that concatenates two strings appending only the specified number of characters in thesecond string to the first.
 This current push is a function that copies a string the way strncpy does.
+This current push is afunction that compares two strings exactly like strcmp.
