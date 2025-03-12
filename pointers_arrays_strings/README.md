@@ -19,3 +19,4 @@ This current push is a function that concatenates two strings appending only the
 This current push is a function that copies a string the way strncpy does.
 This current push is afunction that compares two strings exactly like strcmp.
 THis current push is a function that reverses the content of an array of integers.
+THis current push is a function that changes all lowercase letters of a string to uppercase.
