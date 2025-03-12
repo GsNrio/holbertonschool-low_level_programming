@@ -13,7 +13,7 @@ This current push is a function that prints n elements of an array of integers, 
 This current push is a function that copies the string pointed to by src, including the terminating null byte to the buffer pointed to by dest.
 This current push is a function that convertsa string to an integer.
 ----------------------------------------------------------------------
-At this point I produce material from the More pointers arrays and strings.
+At this point I produce material from the More pointers arrays and strings project.
 This current push is a function that concatenates two strings.
 This current push is a function that concatenates two strings appending only the specified number of characters in thesecond string to the first.
 This current push is a function that copies a string the way strncpy does.
@@ -22,3 +22,6 @@ This current push is a function that reverses the content of an array of integer
 This current push is a function that changes all lowercase letters of a string to uppercase.
 This current push is a function that capitalizes all words of a string.
 This current push is a function that encodes a string into 1337.
+-----------------------------------------------------------------------
+At this point I produce material from the Even more pointers,arrays and strings project.
+This current push is a function that fills memory with a constant byte.
