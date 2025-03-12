@@ -21,4 +21,4 @@ This current push is afunction that compares two strings exactly like strcmp.
 This current push is a function that reverses the content of an array of integers.
 This current push is a function that changes all lowercase letters of a string to uppercase.
 This current push is a function that capitalizes all words of a string.
-
+This current push is a function that encodes a string into 1337.
