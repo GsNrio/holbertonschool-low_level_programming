@@ -31,3 +31,4 @@ This current push is a function that gets the length of a prefix substring.
 This current push is a function that searches a string for any of a set of bytes.
 This current push is a function that locates a substring.
 This current push is a function that prints the chessboard.
+This current push is a function that prints the sum of the two diagonals of a square matrix of integers.
