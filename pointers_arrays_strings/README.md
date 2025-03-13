@@ -25,3 +25,4 @@ This current push is a function that encodes a string into 1337.
 -----------------------------------------------------------------------
 At this point I produce material from the Even more pointers,arrays and strings project.
 This current push is a function that fills memory with a constant byte.
+This current push is a function that copies memory area.
