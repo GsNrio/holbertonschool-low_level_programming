@@ -28,3 +28,4 @@ This current push is a function that fills memory with a constant byte.
 This current push is a function that copies memory area.
 This current push locates a character in a string.
 This current push is a function that gets the length of a prefix substring.
+This current push is a function that searches a string for any of a set of bytes.
