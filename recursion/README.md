@@ -4,7 +4,7 @@ This repository record is being hosted by Holberton Coding School and produced b
 This current push is a function that prints a string followed by a newline. 
 This current push is a function that prints a string in reverse.
 This current push is a function that returns the length of a string. 
-This current push is a function that 
+This current push is a function that returns the factorial of a given number.
 This current push is a function that
 This current push is a function that
 This current push is a function that
