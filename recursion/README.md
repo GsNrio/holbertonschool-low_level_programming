@@ -3,7 +3,7 @@ To navigate this repository, please refer to the Github guides and consult the H
 This repository record is being hosted by Holberton Coding School and produced by me, the student.
 This current push is a function that prints a string followed by a newline. 
 This current push is a function that prints a string in reverse.
-This current push is a function that 
+This current push is a function that returns the length of a string. 
 This current push is a function that 
 This current push is a function that
 This current push is a function that
