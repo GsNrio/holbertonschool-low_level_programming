@@ -41,7 +41,8 @@ int is_prime_number(int n)
 		return (0);
 	}
 
-	for (; i <= _sqrt_recursion(n); i++)
+	if (i == _sqrt_recursion(n))
+		i++;
 	{
 		if (n % i == 0)
 		{
