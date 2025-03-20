@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
 /**
  * main - entry point to the program.
  *
@@ -11,19 +12,28 @@
  */
 int main(int argc, char *argv[])
 {
-	int a;
+	int a, n;
+	int f;
+	int k;
 
-	a = 1;
-	if (a >= 48 && a <= 57)
+	f = 1;
+	k = 0;
+
+	for (; f < argc; f++)
 	{
-		printf("Error\n");
-		return (1);
+		for (; argv[f][k] != '\0'; k++)
+		{
+			if (!isdigit(argv[f][k]))
+			{
+				printf("Error\n");
+				return (1);
+			}
+		}
 	}
-	if (a <= argc)
-	{
-		a++;
-		a = atoi(argv[1]) + atoi(argv[2]);
-		printf("%d\n", a);
-	}
+	a = atoi(argv[1]);
+	n = atoi(argv[2]);
+
+	printf("%d\n", a + n);
+
 	return (0);
 }
