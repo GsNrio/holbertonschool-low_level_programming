@@ -5,5 +5,5 @@ This current push is a program that prints its name followed by a newline.
 This current push is a program that prints the number of arguments passed onto it.
 This current push is a program that prints all the arguments it receives. 
 This current push is a program that multiplies two numbers. 
-This current push is a function that 
+This current push is a function that adds positive numbers.
 
